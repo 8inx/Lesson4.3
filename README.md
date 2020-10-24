@@ -11,7 +11,7 @@ Confirm your installation by checking for G++ version by the command:
 ```bash
     g++ --version
 ```
-Install build-essential by the command:the command:
+Install build-essential by the command:
 ```bash
     sudo apt install build-essential
 ```
